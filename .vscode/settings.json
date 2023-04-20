@@ -1,0 +1,21 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.debug.settings.onBuildFailureProceed": true,
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#276fea",
+        "titleBar.activeForeground": "#000000",
+        "titleBar.inactiveBackground": "#276fea",
+        "titleBar.inactiveForeground": "#000000",
+        "titleBar.border": "#276fea",
+        "activityBar.background": "#276fea",
+        "activityBar.foreground": "#000000",
+        "statusBar.background": "#276fea",
+        "statusBar.foreground": "#000000",
+        "statusBar.debuggingBackground": "#276fea",
+        "statusBar.debuggingForeground": "#000000",
+        "tab.activeBorder": "#276fea",
+        "iLoveWorkSpaceColors": true,
+        "iLoveWorkSpaceRandom": false
+    }
+}
